@@ -1,4 +1,3 @@
 # Yusaki-Repo
-First Repo :vvv
-Yusaki is me
+Đây là tài liệu học tập của Yusaki mặc dầu nó xàm vkl
 # Update content of Readme
